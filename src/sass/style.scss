@@ -8,9 +8,11 @@
 @import 'blocks/carousel';
 @import 'blocks/catalog';
 @import 'blocks/footer';
+@import 'blocks/modal';
 *,
 ul,
-li, address {
+li,
+address {
     font-family: 'Museo Sans Cyrl', sans-serif;
     margin: 0;
     padding: 0;
