@@ -33,7 +33,7 @@ $(document).ready(function() {
     toggleSlide('.catalog-item__content');
     toggleSlide('.catalog-item__list');
 
-    // Modal
+    // Modal... 
 
     $('[data-modal=consultation]').on('click', function() {
         $('.overlay, #consultation').fadeIn('slow');
